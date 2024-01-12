@@ -5,10 +5,10 @@ This repository holds custom CSS styles for enhancing Vivaldi. Discover tweaks f
 
 ### 🚀 Features
 
-- **Dark Theme:** 🌙 Sleek dark mode for a comfortable night browsing experience.
-- **Tab Modifications:** 🔄 Tailored tab behavior and appearance to suit your workflow.
-- **Sidebar Enhancements:** 📌 Streamlined navigation and quick access to elements.
-- **Modern Design:** 🎨 Beautiful gradients for a contemporary and visually appealing design.
+- 🌙 **Dark Theme:** Sleek dark mode for a comfortable night browsing experience.
+- 🔄 **Tab Modifications:** Tailored tab behavior and appearance to suit your workflow.
+- 📌 **Sidebar Enhancements:** Streamlined navigation and quick access to elements.
+- 🎨 **Modern Design:** Beautiful gradients for a contemporary and visually appealing design.
 
 ### 🛠 Usage
 
